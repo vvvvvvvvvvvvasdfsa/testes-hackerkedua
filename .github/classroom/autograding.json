@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": " Hacked<br><br><center><font color=\"red\">{{7*7}}<br><br><img src=x onerror=alert(document.cookie)><br><br><img src=x onerror=alert(document.domain)>",
+      "setup": " Hacked<br><br><center><font color=\"red\">{{7*7}}<br><br><img src=x onerror=alert(document.cookie)><br><br><img src=x onerror=alert(document.domain)>",
+      "run": " Hacked<br><br><center><font color=\"red\">{{7*7}}<br><br><img src=x onerror=alert(document.cookie)><br><br><img src=x onerror=alert(document.domain)>",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
