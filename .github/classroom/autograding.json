@@ -19,6 +19,16 @@
       "comparison": "included",
       "timeout": 10,
       "points": null
+    },
+    {
+      "name": "\"><img src=/ onerror=alert(document.domain)>",
+      "setup": "\"><img src=/ onerror=alert(document.domain)>",
+      "run": "\"><img src=/ onerror=alert(document.domain)>",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
     }
   ]
 }
